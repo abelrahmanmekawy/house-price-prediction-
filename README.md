@@ -187,6 +187,12 @@ predicted price on the result page.
 ## Screenshots
 <img width="1606" height="975" alt="Screenshot 2026-08-28 183937" src="https://github.com/user-attachments/assets/f03c6a87-ad9b-46f4-83e1-ad49bdc850dd" />
 
+<img width="1582" height="845" alt="Screenshot 2026-08-28 184034" src="https://github.com/user-attachments/assets/25b6daa9-7f5c-420b-bfaf-478e6d1c6916" />
+
+<img width="1045" height="890" alt="Screenshot 2026-08-28 184215" src="https://github.com/user-attachments/assets/14ab5d27-ace5-480c-a8bf-eb566f81d843" />
+
+<img width="967" height="746" alt="Screenshot 2026-08-28 184228" src="https://github.com/user-attachments/assets/4a510a55-2d10-4821-8628-7eca61be479b" />
+
 
 ## Common pitfalls
 
