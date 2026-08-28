@@ -1,4 +1,4 @@
-# House Price Prediction — End-to-End ML Web App
+# House Price Prediction
 
 Predicts Indian residential property prices from a Kaggle listings dataset.
 Raw data → cleaning & feature engineering → trained sklearn Pipeline →
