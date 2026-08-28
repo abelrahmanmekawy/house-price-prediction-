@@ -185,8 +185,8 @@ predicted price on the result page.
 | RandomForest      |     |      |    |
 
 ## Screenshots
+<img width="1606" height="975" alt="Screenshot 2026-08-28 183937" src="https://github.com/user-attachments/assets/f03c6a87-ad9b-46f4-83e1-ad49bdc850dd" />
 
-*(Add screenshots of the running form and result page here.)*
 
 ## Common pitfalls
 
